@@ -17,4 +17,15 @@ def draw_city():
     draw_education()
     return
 
+def draw_leisure():
+    print("|------------------------------------|")
+    print("|            |          |            |")
+    print("|------------|          |            |")
+    print("|                       |____________|")
+    print("|                MALL                |")
+    print("|-----------------|          |-------|")
+    print("|                 |          |       |")
+    print("|                 |          |       |")
+    print("|------------------------------------|")
+    
 draw_city()
